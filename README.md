@@ -1,4 +1,3 @@
-# advanced-machine-learning-23
 We store the code scripts for the assignments performed as part of the Advanced ML (2023) course.
 
 © Adarsha Mondal, Rohan Karthikeyan
